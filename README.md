@@ -1,2 +1,2 @@
 # fiknahs
-fiknahs.github.io
+https://fiknahs.github.io
